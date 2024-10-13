@@ -49,7 +49,7 @@ signed int main(int argc, const char *argv[]) {
 		}
 	*/
 //	std::cout << juanji();
-	std::cout << "ËüÓĞ" << jihuo(juanji()) * 100.0 << "%µÄ¸ÅÂÊ°üº¬×ÅX";
+	std::cout << "Compatibilityï¼š" << jihuo(juanji()) * 100.0;
 	return (signed int)0;
 }
 
